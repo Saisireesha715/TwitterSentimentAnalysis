@@ -20,10 +20,3 @@ This project implements a sentiment analysis model to classify tweets into Posit
 - "The weather today is quite normal, nothing too exciting."
 - "Just finished reading a book; it was okay, not the best I've read."
 
-## Setup Instructions
-To set up the project locally, follow these steps:
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/TwitterSentimentAnalysis.git
-   cd TwitterSentimentAnalysis
